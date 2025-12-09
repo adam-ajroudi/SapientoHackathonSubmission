@@ -1,6 +1,6 @@
 <div align="center">
 
-Winning Omi AI Hackathon at Founders Bay Agent Hackathon 2.0 
+Won Omi AI Hackathon at Founders Bay Agent Hackathon 2.0 
 
 # **Omi AI**
 
