@@ -2,7 +2,7 @@
 
 Winning Omi AI Hackathon at Founders Bay Agent Hackathon 2.0 
 
-# **Friend**
+# **Omi AI**
 
 Meet Friend, the world’s leading open-source AI wearable that revolutionizes how you capture and manage conversations. Simply connect Friend to your mobile device and enjoy automatic, high-quality transcriptions of meetings, chats, and voice memos wherever you are.
 
